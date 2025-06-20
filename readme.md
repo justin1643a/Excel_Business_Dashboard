@@ -5,7 +5,7 @@
 ### Type: Excel-Based Reporting & Analytics
 ### Project Type: Personal, Excel
 
-SQL Skills Used: Importing and transforming data, merging and appending tables, cleaning and shaping data (removing nulls, changing data types, trimming fields), building PivotCharts for dynamic reporting, creating calculated columns and measures, applying conditional logic with formulas ( IF, VLOOKUP, INDEX/MATCH), and developing KPI visuals.	
+Skills Demonstrated: Importing and transforming data, merging and appending tables, cleaning and shaping data (removing nulls, changing data types, trimming fields), building PivotCharts for dynamic reporting, creating calculated columns and measures, applying conditional logic with formulas ( IF, VLOOKUP, INDEX/MATCH), and developing KPI visuals.	
 ## Overview
 This dashboard combines WMS shipping data, UPS inbound data, and manual entries to create a monthly snapshot for leadership review. Since the existing systems did not provide access to open databases, the solution was built entirely in Excel and designed to be user-friendly and maintainable by someone with average Excel experience
 
